@@ -1,6 +1,10 @@
 # Kostify
 **Kostify** adalah aplikasi desktop berbasis Java yang dikembangkan menggunakan NetBeans IDE untuk membantu pemilik kost dalam mengelola kamar, penghuni, dan transaksi pembayaran secara efisien.
 
+<p align="center">
+  <img src="logo uk2.png" width="200" alt="Logo Kostify">
+</p>
+
 Dibuat Oleh Kelompok 4: PTI 2024 A
 ##  Anggota Kelompok
 ####  Abidah Ardelia F. N. C. [24050974030]
